@@ -1,0 +1,13 @@
+.DS_Store
+dss.tar
+
+fedora/*
+files/*
+images/*
+mysql/*
+troi/*
+www/dump.*
+www/thumbnail/*
+www/preview/*
+www/DEFS/*
+
